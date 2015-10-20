@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-edu
-=======
-
->>>>>>> origin/master
