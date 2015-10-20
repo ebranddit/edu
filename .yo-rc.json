@@ -1,0 +1,10 @@
+{
+  "generator-meaningfuljs": {
+    "githubName": "ebranddit",
+    "githubEmail": "ebranddit@gmail.com",
+    "githubNameAndEmail": "ebranddit <ebranddit@gmail.com>",
+    "appName": "edu",
+    "appDescription": "cms",
+    "appAuthor": "ebranddit <ebranddit@gmail.com>"
+  }
+}
